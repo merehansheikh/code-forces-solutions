@@ -1,4 +1,4 @@
-#Way Too Long Words
+#Way Too Long Words /800
 #https://codeforces.com/problemset/problem/71/A
 
 x=int(input())
